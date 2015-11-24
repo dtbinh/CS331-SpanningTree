@@ -1,0 +1,200 @@
+Node:10 Edge:9 ... Passed Cost=(0, 0)
+Prims ST = No spanning tree
+Kruskal ST = No spanning tree
+
+Node:10 Edge:18 ... Passed Cost=(55, 55)
+Prims ST = (0,7) (7,8) (8,4) (7,9) (0,5) (5,3) (7,6) (6,2) (0,1) 
+Kruskal ST = (8,4) (5,3) (6,2) (7,0) (8,7) (9,7) (5,0) (7,6) (1,0) 
+
+Node:10 Edge:27 ... Passed Cost=(53, 53)
+Prims ST = (0,8) (8,3) (3,1) (0,6) (6,4) (8,7) (7,9) (7,2) (4,5) 
+Kruskal ST = (8,0) (9,7) (8,3) (3,1) (6,4) (6,0) (8,7) (7,2) (5,4) 
+
+Node:10 Edge:36 ... Passed Cost=(47, 47)
+Prims ST = (0,2) (0,9) (9,6) (6,7) (6,4) (6,3) (3,5) (5,1) (6,8) 
+Kruskal ST = (2,0) (5,3) (9,0) (5,1) (7,6) (6,4) (9,6) (6,3) (8,6) 
+
+Node:10 Edge:45 ... Passed Cost=(55, 55)
+Prims ST = (0,1) (0,9) (9,8) (8,3) (3,5) (5,4) (4,2) (2,7) (0,6) 
+Kruskal ST = (5,3) (5,4) (1,0) (9,0) (4,2) (9,8) (8,3) (7,2) (6,0) 
+
+Node:20 Edge:38 ... Passed Cost=(222, 222)
+
+Node:20 Edge:76 ... Passed Cost=(207, 207)
+
+Node:20 Edge:114 ... Passed Cost=(215, 215)
+
+Node:20 Edge:152 ... Passed Cost=(236, 236)
+
+Node:20 Edge:190 ... Passed Cost=(223, 223)
+
+Node:30 Edge:87 ... Passed Cost=(514, 514)
+
+Node:30 Edge:174 ... Passed Cost=(492, 492)
+
+Node:30 Edge:261 ... Passed Cost=(492, 492)
+
+Node:30 Edge:348 ... Passed Cost=(487, 487)
+
+Node:30 Edge:435 ... Passed Cost=(563, 563)
+
+Node:40 Edge:156 ... Passed Cost=(851, 851)
+
+Node:40 Edge:312 ... Passed Cost=(1004, 1004)
+
+Node:40 Edge:468 ... Passed Cost=(953, 953)
+
+Node:40 Edge:624 ... Passed Cost=(888, 888)
+
+Node:40 Edge:780 ... Passed Cost=(854, 854)
+
+Node:50 Edge:245 ... Passed Cost=(1414, 1414)
+
+Node:50 Edge:490 ... Passed Cost=(1384, 1384)
+
+Node:50 Edge:735 ... Passed Cost=(1366, 1366)
+
+Node:50 Edge:980 ... Passed Cost=(1444, 1444)
+
+Node:50 Edge:1225 ... Passed Cost=(1503, 1503)
+
+Node:60 Edge:354 ... Passed Cost=(2097, 2097)
+
+Node:60 Edge:708 ... Passed Cost=(1997, 1997)
+
+Node:60 Edge:1062 ... Passed Cost=(1889, 1889)
+
+Node:60 Edge:1416 ... Passed Cost=(2198, 2198)
+
+Node:60 Edge:1770 ... Passed Cost=(2031, 2031)
+
+Node:70 Edge:483 ... Passed Cost=(2977, 2977)
+
+Node:70 Edge:966 ... Passed Cost=(3066, 3066)
+
+Node:70 Edge:1449 ... Passed Cost=(2980, 2980)
+
+Node:70 Edge:1932 ... Passed Cost=(2948, 2948)
+
+Node:70 Edge:2415 ... Passed Cost=(2686, 2686)
+
+Node:80 Edge:632 ... Passed Cost=(3609, 3609)
+
+Node:80 Edge:1264 ... Passed Cost=(3829, 3829)
+
+Node:80 Edge:1896 ... Passed Cost=(3619, 3619)
+
+Node:80 Edge:2528 ... Passed Cost=(3912, 3912)
+
+Node:80 Edge:3160 ... Passed Cost=(3430, 3430)
+
+Node:90 Edge:801 ... Passed Cost=(4633, 4633)
+
+Node:90 Edge:1602 ... Passed Cost=(5362, 5362)
+
+Node:90 Edge:2403 ... Passed Cost=(4494, 4494)
+
+Node:90 Edge:3204 ... Passed Cost=(4837, 4837)
+
+Node:90 Edge:4005 ... Passed Cost=(4650, 4650)
+
+Node:100 Edge:990 ... Passed Cost=(6168, 6168)
+
+Node:100 Edge:1980 ... Passed Cost=(5946, 5946)
+
+Node:100 Edge:2970 ... Passed Cost=(6123, 6123)
+
+Node:100 Edge:3960 ... Passed Cost=(5575, 5575)
+
+Node:100 Edge:4950 ... Passed Cost=(5661, 5661)
+
+Node:200 Edge:3980 ... Passed Cost=(23537, 23537)
+
+Node:200 Edge:7960 ... Passed Cost=(24343, 24343)
+
+Node:200 Edge:11940 ... Passed Cost=(26527, 26527)
+
+Node:200 Edge:15920 ... Passed Cost=(22553, 22553)
+
+Node:200 Edge:19900 ... Passed Cost=(23895, 23895)
+
+Node:300 Edge:8970 ... Passed Cost=(52794, 52794)
+
+Node:300 Edge:17940 ... Passed Cost=(52503, 52503)
+
+Node:300 Edge:26910 ... Passed Cost=(53751, 53751)
+
+Node:300 Edge:35880 ... Passed Cost=(53471, 53471)
+
+Node:300 Edge:44850 ... Passed Cost=(55147, 55147)
+
+Node:400 Edge:15960 ... Passed Cost=(95335, 95335)
+
+Node:400 Edge:31920 ... Passed Cost=(94971, 94971)
+
+Node:400 Edge:47880 ... Passed Cost=(93919, 93919)
+
+Node:400 Edge:63840 ... Passed Cost=(99938, 99938)
+
+Node:400 Edge:79800 ... Passed Cost=(95814, 95814)
+
+Node:500 Edge:24950 ... Passed Cost=(153400, 153400)
+
+Node:500 Edge:49900 ... Passed Cost=(152180, 152180)
+
+Node:500 Edge:74850 ... Passed Cost=(149185, 149185)
+
+Node:500 Edge:99800 ... Passed Cost=(152024, 152024)
+
+Node:500 Edge:124750 ... Passed Cost=(153477, 153477)
+
+Node:600 Edge:35940 ... Passed Cost=(203347, 203347)
+
+Node:600 Edge:71880 ... Passed Cost=(209604, 209604)
+
+Node:600 Edge:107820 ... Passed Cost=(213955, 213955)
+
+Node:600 Edge:143760 ... Passed Cost=(212002, 212002)
+
+Node:600 Edge:179700 ... Passed Cost=(216944, 216944)
+
+Node:700 Edge:48930 ... Passed Cost=(297201, 297201)
+
+Node:700 Edge:97860 ... Passed Cost=(286205, 286205)
+
+Node:700 Edge:146790 ... Passed Cost=(295070, 295070)
+
+Node:700 Edge:195720 ... Passed Cost=(288869, 288869)
+
+Node:700 Edge:244650 ... Passed Cost=(296365, 296365)
+
+Node:800 Edge:63920 ... Passed Cost=(400249, 400249)
+
+Node:800 Edge:127840 ... Passed Cost=(382938, 382938)
+
+Node:800 Edge:191760 ... Passed Cost=(382117, 382117)
+
+Node:800 Edge:255680 ... Passed Cost=(387513, 387513)
+
+Node:800 Edge:319600 ... Passed Cost=(387499, 387499)
+
+Node:900 Edge:80910 ... Passed Cost=(492106, 492106)
+
+Node:900 Edge:161820 ... Passed Cost=(490998, 490998)
+
+Node:900 Edge:242730 ... Passed Cost=(492227, 492227)
+
+Node:900 Edge:323640 ... Passed Cost=(487988, 487988)
+
+Node:900 Edge:404550 ... Passed Cost=(486031, 486031)
+
+Node:1000 Edge:99900 ... Passed Cost=(622242, 622242)
+
+Node:1000 Edge:199800 ... Passed Cost=(597961, 597961)
+
+Node:1000 Edge:299700 ... Passed Cost=(592986, 592986)
+
+Node:1000 Edge:399600 ... Passed Cost=(596307, 596307)
+
+Node:1000 Edge:499500 ... Passed Cost=(602729, 602729)
+

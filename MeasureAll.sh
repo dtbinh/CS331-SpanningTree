@@ -1,0 +1,20 @@
+echo '' > data/output.txt
+php Measure.php data/graph_10.json >> data/output.txt
+php Measure.php data/graph_20.json >> data/output.txt
+php Measure.php data/graph_30.json >> data/output.txt
+php Measure.php data/graph_40.json >> data/output.txt
+php Measure.php data/graph_50.json >> data/output.txt
+php Measure.php data/graph_60.json >> data/output.txt
+php Measure.php data/graph_70.json >> data/output.txt
+php Measure.php data/graph_80.json >> data/output.txt
+php Measure.php data/graph_90.json >> data/output.txt
+php Measure.php data/graph_100.json >> data/output.txt
+php Measure.php data/graph_200.json >> data/output.txt
+php Measure.php data/graph_300.json >> data/output.txt
+php Measure.php data/graph_400.json >> data/output.txt
+php Measure.php data/graph_500.json >> data/output.txt
+php Measure.php data/graph_600.json >> data/output.txt
+php Measure.php data/graph_700.json >> data/output.txt
+php Measure.php data/graph_800.json >> data/output.txt
+php Measure.php data/graph_900.json >> data/output.txt
+php Measure.php data/graph_1000.json >> data/output.txt
